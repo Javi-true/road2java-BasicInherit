@@ -22,6 +22,6 @@ public class Alumno extends Persona{
 
     //Metodo estudiar().
     public void estudiar(){
-        System.out.println(nombre + "esta estudiando");
+        System.out.println(nombre + " esta estudiando");
     }
 }

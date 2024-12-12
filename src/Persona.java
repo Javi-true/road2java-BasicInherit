@@ -20,8 +20,5 @@ public class Persona {
         System.out.println(this);
     }
 
-    //Metodo main.
-    public static void main(String[] args){
 
-    }
 }
